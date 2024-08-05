@@ -1,0 +1,18 @@
+101010;Rundt, Nora;norrun@hotmail.com;13151731;Nestleder
+212224;Rike, Frank;frarik@online.no;14156727;#
+131287;Nille, Per;peppen@yahoo.com;92921313;Kasserer
+442231;Gark, Olli;olgar@gmail.com;88445252;#
+354677;Telokk, Gry;telegry@gmail.com;21515378;#
+909106;Ning, Beret;bernin@online.no;#;#
+701722;Steen, Edel;701722@student.usn.no;43615374;Styremedlem
+181923;Pleks, Per;pepe@student.usn.no;#;#
+919890;Tiden, Frida;181193@student.usn.no;42415271;Kodesjef
+311331;Nado, Tor;311331@student.usn.no;#;#
+101135;Verksemd, Anna;annaver@online.no;48131557;Styremedlem
+181193;Gryhn, Stina;181193@student.usn.no;#;#
+628870;Ring, Kjell T.;ringkjel@gmail.com;22815747;PRansvarlig
+246537;Fallah, Ali;alifal@gmail.com;48445858;#
+424861;Nesen, Teddy;tednes@online.no;42899741;Linjeleder
+222231;Lin, Pra;222231@student.usn.no;98945212;#
+811195;Skogen, Turid;811195@student.usn.no;#;#
+705050;Sund, Kristian;krund99@hotmail.com;43151734;#

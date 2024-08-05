@@ -102,9 +102,9 @@ public class StudentregisterGUI extends Application {
 
 		//Justerer størrelse på logo 
 		usnLogoVis.setFitWidth(250); 
-        usnLogoVis.setFitHeight(150); 
-      	//hindrer endring av proposisjoner 
-        usnLogoVis.setPreserveRatio(true); 
+        	usnLogoVis.setFitHeight(150); 
+      		//hindrer endring av proposisjoner 
+       		 usnLogoVis.setPreserveRatio(true); 
 
 		//legger element til panelet
 		øverst.getChildren().addAll(usnLogoVis); 

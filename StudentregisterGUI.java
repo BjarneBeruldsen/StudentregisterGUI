@@ -102,9 +102,9 @@ public class StudentregisterGUI extends Application {
 
 		//Justerer størrelse på logo 
 		usnLogoVis.setFitWidth(250); 
-        usnLogoVis.setFitHeight(150); 
-      	//hindrer endring av proposisjoner 
-        usnLogoVis.setPreserveRatio(true); 
+	        usnLogoVis.setFitHeight(150); 
+	      	//hindrer endring av proposisjoner 
+	        usnLogoVis.setPreserveRatio(true); 
 
 		//legger element til panelet
 		øverst.getChildren().addAll(usnLogoVis); 
@@ -402,7 +402,7 @@ public class StudentregisterGUI extends Application {
 
 
 	//Åpner vindu for å legge til student
-    private void åpneVinduLeggTil() {
+    	private void åpneVinduLeggTil() {
 	 	//GUI for ny student 
 	 	leggTilStage = new Stage(); 
 	 	FlowPane leggTilPanel = new FlowPane(); 
@@ -700,8 +700,8 @@ public class StudentregisterGUI extends Application {
 		//henter dagens dato 
 		LocalDateTime nå = LocalDateTime.now();
 		// Lager format 
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd_HH-mm-ss");
-        String dato = nå.format(formatter);
+	        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd_HH-mm-ss");
+	        String dato = nå.format(formatter);
 
 		try {	
 				String sql = "select * from Student;"; 

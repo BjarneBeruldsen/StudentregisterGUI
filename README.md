@@ -5,4 +5,4 @@ Oppgaven ble løst før jeg lærte objektorientert programmering. Derfor er all 
 Utvikler: Bjarne Hovd Beruldsen. 
 
 ## Visning 
-
+![Studentregistervisning](./gif/VisningStudentRegisterGui.gif)

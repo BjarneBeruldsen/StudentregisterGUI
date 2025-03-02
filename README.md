@@ -7,9 +7,9 @@ Oppgaven ble løst før jeg lærte objektorientert programmering. Derfor er all 
 ## Teknologier
 - Databasen er laget ved bruk av SQLite. 
 - For kobling til databasen brukes JDBC.
-- JavaFX for GUI
-- Java som programmeringspråk
-- SQL som spørrespråk til å utføre CRUD operasjoner mot databasen
+- JavaFX for GUI.
+- Java som programmeringspråk.
+- SQL som spørrespråk til å utføre CRUD operasjoner mot databasen.
 
 Utvikler: Bjarne Hovd Beruldsen. 
 
